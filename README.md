@@ -1,6 +1,4 @@
 # happiness-index-dataset-evaluation
-###World Happiness Report Analysis
-
 ### Overview
 This Jupyter Notebook provides a foundational framework for exploring and analyzing the World Happiness Report dataset. By incorporating essential Python libraries for data manipulation, visualization, and modeling, it establishes a solid starting point for in-depth investigations into the factors influencing global happiness.
 
